@@ -1,0 +1,25 @@
+# Query: PANAL
+# Flags: RegExp
+# ContextLines: 1
+
+4 results - 4 files
+
+frontend/src/pages/Panel_Member/AddPanel.jsx:
+  91              <b>
+  92:               <h1>ADD PANEL </h1>
+  93              </b>
+
+frontend/src/pages/Panel_Member/AddPanelMember.jsx:
+  95              <h1>
+  96:               <b>ADD PANEL MEMBER </b>
+  97              </h1>
+
+frontend/src/pages/Panel_Member/UpdatePanel.jsx:
+  72            <center>
+  73:             <h2 className="h3 mb-3 font-weight-normal">UPDATE PANEL </h2>
+  74            </center>
+
+frontend/src/pages/Panel_Member/UpdatePanelMember.jsx:
+  81            <center>
+  82:             <h2 className="h3 mb-3 font-weight-normal">UPDATE PANEL MEMBER</h2>
+  83            </center>

@@ -1,4 +1,4 @@
-ProjExpert- 'Research Project Management System' is a joined effort in collaboration with Asst. Prof. Tribikram Pradhan and the details of which can be drawn from the document titled ResearchProjectManagementSystem.pdf
+ProjExpert- 'Research Project Management System' is a joined effort in collaboration with Asst. Prof. Tribikram Pradhan of Tezpur University and the details of which can be drawn from the document titled ResearchProjectManagementSystem.pdf
 
 It focuses on meeting the following requirements
 ProjExpert can register Users, Staff, and Admins in

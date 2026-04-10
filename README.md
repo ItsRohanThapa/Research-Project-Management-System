@@ -1,3 +1,5 @@
+
+<img width="1326" height="746" alt="proj" src="https://github.com/user-attachments/assets/77f01a4c-c5a5-497a-abaa-a4c66fb6ca21" />
 ProjExpert- 'Research Project Management System' is a joined effort in collaboration with Asst. Prof. Tribikram Pradhan of Tezpur University and the details of which can be drawn from the document titled ResearchProjectManagementSystem.pdf and the powerpoint presentation titled ProjExpert.pdf
 
 
